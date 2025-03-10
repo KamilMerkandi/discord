@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/discord",
+    "name": "kamilmerkandi/discord",
     "description": "Laravel notification driver for Discord.",
     "keywords": [
         "laravel",
